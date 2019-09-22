@@ -2,5 +2,16 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/cucumber-reporting-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/JavaJars/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
